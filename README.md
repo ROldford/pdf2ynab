@@ -10,9 +10,7 @@ Both PDF and CSVs can be reformatted
 
 ## Usage
 
-<script>
-	python3 pdf2ynab.py "SCB" bank_pdf.pdf january.csv
-</script>
+`python3 pdf2ynab.py "SCB" bank_pdf.pdf january.csv`
 
 ### Arguments
 - bank_code

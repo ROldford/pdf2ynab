@@ -27,6 +27,10 @@ If you'd like to contribute, make sure not to commit any files that have sensiti
 - If you're doing integration tests that actually read from sensitive PDFs, separate those tests into their own file and don't add it.
 - To make sure you don't accidentally add and commit sensitive files, add them to your .gitignore file.
 
+## History
+
+0.1.0 - Initial release
+
 ## Credits
 
 By Ryan Oldford (ryan.oldford@gmail.com)

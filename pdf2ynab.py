@@ -1,7 +1,7 @@
 """Converts bank transaction files to CSV file formatted for YouNeedABudget
 Both PDF and CSVs can be reformatted
 
-Version: 2.0
+Version: 0.1.0-rc1
 
 Note:
     CSV format is given at:

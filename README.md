@@ -21,6 +21,8 @@ Both PDF and CSVs can be reformatted
 	- Path to the output CSV file
 
 ## A note on contributing
+As I'm not living in Thailand any more, I can't work on this effectively. If you're interested in taking this project over, please let me know. Thanks!
+
 Testing your contributions involves using bank data PDFs and CSVs, and clearly having PDFs full of your personal bank data is a problem.
 If you'd like to contribute, make sure not to commit any files that have sensitive bank data.
 - If PDFs or CSVs are edited to remove personal data, they can be committed and be part of pull requests.
